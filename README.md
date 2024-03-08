@@ -2,10 +2,12 @@
 
 I am a researcher and educator in the School of Psychology at the University of Sydney (Australia).
 
-My interests include 
+I am trying to:
 
-* Improving science, e.g. through moving beyond authorship, to [contributorship](https://contributorshipcollaboration.github.io/)
-* Understanding human attention, and discovering new things about it by doing experiments.
+* Improve science
+  * Helping researchers and publishers move beyond outdated authorship practices, toward [contributorship](https://contributorshipcollaboration.github.io/).
+  * Understanding and addressing problems like the peer review crisis (e.g., [1](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-021-00118-2))
+* Understandi human attention, and discover new things about it by doing experiments.
 - 📫 How to reach me:
   -  Mastodon: <A href="https://fediscience.org/@alexh" rel="me">fediscience.org/@alexh</a>
   -  Email: aoholcombe@gmail.com
