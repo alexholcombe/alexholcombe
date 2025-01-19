@@ -9,7 +9,8 @@ I am trying to:
   * Understanding and addressing problems like the peer review crisis (e.g., [1](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-021-00118-2))
 * Understand human attention, and discover new things about it by doing experiments.
 - 📫 How to reach me:
-  -  Mastodon: <A href="https://fediscience.org/@alexh" rel="me">fediscience.org/@alexh</a>
+  -  <A href="https://fediscience.org/@alexh" rel="me">fediscience.org/@alexh</a> (Mastodon)
+  -  <A href="https://bsky.app/profile/alexh.bsky.social">BlueSky</A>
   -  Email: aoholcombe@gmail.com
   
 <!--
